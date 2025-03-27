@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "A protocol buffer query string documentor",
   "type": "module",
-  "bin": "src/index.js",
-  "repository": "github:YasogaN/protobuf-doc",
+  "bin": {
+    "protobuf-doc": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasogaN/protobuf-doc.git"
+  },
   "homepage": "https://github.com/YasogaN/protobuf-doc#readme",
   "bugs": {
     "url": "https://github.com/YasogaN/protobuf-doc/issues"
