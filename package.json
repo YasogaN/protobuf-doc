@@ -1,7 +1,7 @@
 {
   "name": "protobuf-doc",
   "version": "1.0.0",
-  "description": "A fully-typed porotocol buffer documentor",
+  "description": "A protocol buffer query string documentor",
   "type": "module",
   "bin": "src/index.js",
   "repository": "github:YasogaN/protobuf-doc",
